@@ -6,11 +6,13 @@ In this module, the *Python's Pandas* and *Python's Matplotlib* libraries are us
 
 Two input csv datasets are provided for its analysis:
 1.Ride-sharing information by city, **[city data](./Resources/city_data.csv)**.
+
 ![Image 01](./analysis/Image01_city_data.jpg)
 
 *Image 01: Input city data*
 
 2.Ride-sharing information by ride, **[ride data](./Resources/ride_data.csv)**.
+
 ![Image 02](./analysis/Image02_ride_data.jpg)
 
 *Image 02: Input ride data*
