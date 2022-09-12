@@ -23,7 +23,9 @@ The objectives are to showcase the relationship between the type of city and the
 The **[analysis jupyter notebook](./PyBer_Challenge.ipynb)** along with the following three final deliverables are provided:
 
 **1.** **[Deliverable 1](./analysis/Deliverable1_SummaryDF.jpg)**: A ride-sharing summary DataFrame by city type.
+
 **2.** **[Deliverable 2](./analysis/Deliverable2_LineChart.jpg)**: A multiple-line chart of total fares for each city type.
+
 **3.** **Deliverable 3**: A written report for the PyBer analysis (This README.md file).
 
 ## Results
