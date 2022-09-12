@@ -22,9 +22,9 @@ The objectives are to showcase the relationship between the type of city and the
 
 The **[analysis jupyter notebook](./PyBer_Challenge.ipynb)** along with the following three final deliverables are provided:
 
-**1.****[Deliverable 1](./analysis/Deliverable1_SummaryDF.jpg)**: A ride-sharing summary DataFrame by city type.
-**2.****[Deliverable 2](./analysis/Deliverable2_LineChart.jpg)**: A multiple-line chart of total fares for each city type.
-**3.****Deliverable 3**: A written report for the PyBer analysis (This README.md file).
+**1.** **[Deliverable 1](./analysis/Deliverable1_SummaryDF.jpg)**: A ride-sharing summary DataFrame by city type.
+**2.** **[Deliverable 2](./analysis/Deliverable2_LineChart.jpg)**: A multiple-line chart of total fares for each city type.
+**3.** **Deliverable 3**: A written report for the PyBer analysis (This README.md file).
 
 ## Results
 
@@ -70,8 +70,8 @@ Finally, a multiple-line chart containing the total fares for each city type was
 
 Based on the results, these are the business observations and recommendations to PyBer's CEO in order to address the disparities observed among the city types:
 
-**1.**There is an over-population or urban drivers. An 81% of the total number of drivers in all the city types are concentrated in the urban cities. The low average fare per ride and the low average fare per driver in this city type, seemed to be explained by this high supply. It is recommended not to further increase the number of drivers in urban cities.
+**1.** There is an over-population or urban drivers. An 81% of the total number of drivers in all the city types are concentrated in the urban cities. The low average fare per ride and the low average fare per driver in this city type, seemed to be explained by this high supply. It is recommended not to further increase the number of drivers in urban cities.
 
-**2.**There is an under-population of drivers in the rural cities. Opposite to what was observed in the urban cities, the low supply of drivers in the rural cities led to a significant increase of the average fare per ride and the average fare per driver. It is advised to capture more drivers to provide service in the rural cities.
+**2.** There is an under-population of drivers in the rural cities. Opposite to what was observed in the urban cities, the low supply of drivers in the rural cities led to a significant increase of the average fare per ride and the average fare per driver. It is advised to capture more drivers to provide service in the rural cities.
 
-**3.**There is a trend of high demand of rides close to the beginning/ending of every month, thus it is recommended to be prepared to fulfill the high demand during these busy times in all the city types.
+**3.** There is a trend of high demand of rides close to the beginning/ending of every month, thus it is recommended to be prepared to fulfill the high demand during these busy times in all the city types.
