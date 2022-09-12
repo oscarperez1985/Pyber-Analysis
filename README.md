@@ -72,7 +72,7 @@ Finally, a multiple-line chart containing the total fares for each city type was
 
 Based on the results, these are the business observations and recommendations to PyBer's CEO in order to address the disparities observed among the city types:
 
-**1.** There is an over-population or urban drivers. An 81% of the total number of drivers in all the city types are concentrated in the urban cities. The low average fare per ride and the low average fare per driver in this city type, seemed to be explained by this high supply. It is recommended not to further increase the number of drivers in urban cities.
+**1.** There is an over-population or urban drivers. An 81% of the total number of drivers in all the city types are concentrated in the urban cities. The low average fare per ride and the low average fare per driver in this city type, seemed to be explained by this high supply. It is recommended to do not increase the number of drivers in urban cities.
 
 **2.** There is an under-population of drivers in the rural cities. Opposite to what was observed in the urban cities, the low supply of drivers in the rural cities led to a significant increase of the average fare per ride and the average fare per driver. It is advised to capture more drivers to provide service in the rural cities.
 
